@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Darnell Shields III"
+title                    : "Darnell Shields III "
 title_separator          : "-"
 name                     : &name Darnell
 description              : &description "personal description"
