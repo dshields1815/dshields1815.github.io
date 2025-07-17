@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : Darnell Shields III
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : Darnell Shields III
+  name             : "Darnell Shields III"
   pronouns         : "he/him"  
   bio              : "I’m currently attending Michigan Technological University studying Electrical engineering and enjoy working in the construction industry."
   location         : "Michigan Technological University"
