@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Darnell Shields III"
+  pronouns         : "he/him"  
+  bio              : "I’m currently attending Michigan Technological University studying Electrical engineering and enjoy working in the construction industry."
+  location         : "Michigan Technological University"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dshields@mtu.edu" 
 
   # Academic websites
   academia         : # URL
